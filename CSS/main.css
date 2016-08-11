@@ -588,7 +588,7 @@ img {
 .Header {
   position: relative;
   height: 500px;
-  background-image: url(./Images/TownCenterRedevelopment.jpg);
+  background-image: url(../Images/TownCenterRedevelopment.jpg);
   background-attachment: fixed;
   overflow: hidden;
 }
@@ -596,7 +596,7 @@ img {
 .logo {
   height: 400px;
   width: 100%;
-  background-image: url(./Images/logo.png);
+  background-image: url(../Images/logo.png);
   background-position: center;
   background-repeat: no-repeat;
   position: absolute;
@@ -645,7 +645,7 @@ img {
 
 .brewingStill {
   height: 640px;
-  background-image: url(./Images/still.jpg);
+  background-image: url(../Images/still.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-attachment: fixed;
